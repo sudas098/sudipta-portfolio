@@ -6,7 +6,7 @@ A modern, high-performance personal portfolio and AI playground, engineered with
 Visit the live site here: [https://sudipta-portfolio.onrender.com](https://sudipta-portfolio.onrender.com)
 
 ## 🛠 Tech Stack
-* **Framework:** Next.js / TypeScript
+* **Framework:** React / TypeScript
 * **Styling:** Tailwind CSS
 * **Animations:** Framer Motion
 * **AI Integration:** Google Gemini API
