@@ -1,20 +1,33 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Sudipta Portfolio
 
-# Run and deploy your AI Studio app
+A modern, high-performance personal portfolio and AI playground, engineered with Next.js and TypeScript. This project serves as a central hub for my work, featuring an integrated AI assistant, automated resume analysis tools, and project showcases.
 
-This contains everything you need to run your app locally.
+## 🚀 Live Demo
+Visit the live site here: [https://sudipta-portfolio.onrender.com](https://sudipta-portfolio.onrender.com)
 
-View your app in AI Studio: https://ai.studio/apps/309d7c1c-aa1c-4aab-81dc-7098338d43a5
+## 🛠 Tech Stack
+* **Framework:** Next.js / TypeScript
+* **Styling:** Tailwind CSS
+* **Animations:** Framer Motion
+* **AI Integration:** Google Gemini API
+* **Deployment:** Render
 
-## Run Locally
+## 💡 Features
+* **AI Assistant:** A custom-trained agent that provides insights into my technical background and projects.
+* **Smart Tools:** Includes an AI-powered Resume Matcher and Cover Letter Generator to streamline job applications.
+* **Project Showcase:** A filterable portfolio grid highlighting my work in AI automation and full-stack development.
 
-**Prerequisites:**  Node.js
+## ⚙️ Development
+To run this project locally:
 
-
-1. Install dependencies:
+1. Clone the repository:
+   `git clone https://github.com/sudas098/sudipta-portfolio.git`
+2. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+3. Set your environment variables (create a `.env` file):
+   `GEMINI_API_KEY=your_api_key_here`
+4. Start the development server:
    `npm run dev`
+
+---
+*Built with passion by Sudipta.*
